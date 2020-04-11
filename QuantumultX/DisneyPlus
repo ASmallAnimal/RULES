@@ -2,6 +2,7 @@ DOMAIN-KEYWORD,dssott,Disneyplus
 DOMAIN-KEYWORD,courier, Disneyplus
 DOMAIN-KEYWORD,bamgrid, Disneyplus
 DOMAIN-KEYWORD,api.us,Disneyplus
+DOMAIN-KEYWORD,basejumper,Disneyplus
 DOMAIN-KEYWORD,playback-certs.bamgrid.com:443,Disneyplus
 DOMAIN-KEYWORD,disney,Disneyplus
 DOMAIN-KEYWORD,basejumper.apple.com:443,Disneyplus
@@ -11,3 +12,5 @@ DOMAIN-KEYWORD,guzzoni,Disneyplus
 DOMAIN-KEYWORD,p35-buy,Disneyplus
 DOMAIN,bam-sdk-configs.bamgrid.com:443,Disneyplus
 DOMAIN,gsa.apple.com,Disneyplus
+DOMAIN,p39-buy.apple.com,Disneyplus
+DOMAIN,xp.apple.com,Disneyplus
